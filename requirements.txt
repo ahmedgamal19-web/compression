@@ -7,4 +7,4 @@ Pillow
 scikit-learn
 matplotlib
 opencv-python
-plotly.graph_objects
+plotly
